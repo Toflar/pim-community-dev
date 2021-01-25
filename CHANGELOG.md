@@ -13,6 +13,8 @@
 
 ## New features
 
+- DAPI-1480: Add the ability to filter products on Quality Score through the API
+
 ## Improvements
 
 # Technical Improvements
